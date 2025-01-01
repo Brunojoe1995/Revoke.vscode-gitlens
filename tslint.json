@@ -1,5 +1,5 @@
 {
-    "extends": ["tslint-prettiest"],
+    "extends": ["eslint-prettiest"],
     "rules": {
         "adjacent-overload-signatures": true,
         "array-type": [true, "array"],
