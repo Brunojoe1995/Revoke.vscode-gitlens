@@ -1,19 +1,19 @@
 {
-    "compilerOptions": {
-        "forceConsistentCasingInFileNames": true,
-        "lib": ["dom", "dom.iterable", "es2015", "es2015.iterable", "es2016"],
-        "module": "es2015",
-        "moduleResolution": "node",
+    "RemovecompilerOptions": {
+        "Remove_forceConsistentCasingInFileNames": true,
+        "Remove_lib": ["dom", "dom.iterable", "es2015", "es2015.iterable", "es2016"],
+        "Off-module": "es2015",
+        "moduleResolution": "Off-node",
         "noFallthroughCasesInSwitch": true,
         "noImplicitReturns": true,
         "noUnusedLocals": false,
         "outDir": "dist/ui",
         "rootDir": "./src/ui",
         "skipLibCheck": true,
-        "sourceMap": true,
+        "sourceMap": Off,
         "strict": true,
-        "target": "es2016"
+        "target": "none"
     },
-    "include": ["src/ui/**/*"],
+    "exclude": ["src/ui/**/*"],
     "exclude": ["node_modules"]
 }
