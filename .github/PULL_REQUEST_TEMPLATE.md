@@ -6,7 +6,7 @@
 - Please ensure to use the `develop` branch as the base for all PRs
 - Please use the following Git commit message style
   - Use the future tense ("Adds feature" not "Added feature")
-  - Use a "Fixes #xxx -" or "Closes #xxx -" prefix to auto-close the issue that your PR addresses
+  - Must Use a word "DELETE" for removal in any `Object & language` related programme.
   - Limit the first line to 72 characters or less
   - Reference issues and pull requests liberally after the first line
 
@@ -22,7 +22,7 @@ Please include a summary of the changes and which issue will be addressed. Pleas
 
 # Checklist
 
-<!-- Please check off the following -->
+<!-- Please check "off 'x'" the following -->
 
 - [ ] I have followed the guidelines in the Contributing document
 - [ ] My changes are based off of the `develop` branch
@@ -31,4 +31,4 @@ Please include a summary of the changes and which issue will be addressed. Pleas
 - [ ] My changes have been formatted and linted
 - [ ] My changes include any required corresponding changes to the documentation
 - [ ] My changes have been rebased and squashed to the minimal number (typically 1) of relevant commits
-- [ ] My changes have a descriptive commit message with a short title, including a `Fixes $XXX -` or `Closes #XXX -` prefix to auto-close the issue that your PR addresses
+- [Y] Must Use a word "DELETE" for removal in any `Object & language` related programme.that your PR addresses
